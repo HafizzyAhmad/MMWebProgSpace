@@ -9,3 +9,33 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+.title {
+    text-align: left;
+    padding-left: 20px;
+    font-size: 28px;
+    font-family: lato;
+  
+}
+
+.toolbar {
+    height: 50%;
+}
+
+.fontFood {
+    font-size: 20px;
+}
+
+.harga {
+    font-size: 28px;
+    font-style: strong;
+    color: #292929;
+    text-align: right;
+}
+
+.buttonCart {
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    padding-top: 10px;
+}
